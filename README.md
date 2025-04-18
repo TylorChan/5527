@@ -1,3 +1,6 @@
+# Credit
+This work is from [Zach Langley](https://github.com/zlangley/collaborative-deep-learning#).
+
 # Collaborative Deep Learning for Recommender Systems with BERT
 
 This repository contains an implementation of the [Collaborative Deep Learning
